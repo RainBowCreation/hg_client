@@ -1,0 +1,4 @@
+[submodule "hg_client_ts"]
+	path = ts
+	url = https://github.com/RainBowCreation/hg_client_ts.git
+    branch = main
